@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zfruit317
+- 👋 Hi, I’m Zining.
 - 👀 I’m interested in architecture/design computing/cooking!
 - 🌱 I’m currently learning design computing
 - 💞️ I’m looking to collaborate on ...
